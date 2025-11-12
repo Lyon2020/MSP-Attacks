@@ -23,9 +23,6 @@ Coming soon......
 | 2023 | TPAMI  | [Adversarial Stickers: A Stealthy Attack Method in the Physical World][P5] | [Code][C5] |
 | 2019 | AAAI  | [ Perceptual-Sensitive GAN for Generating Adversarial Patches][P6] | [Code][C6] |
 | 2020 | CVPR  | [PhysGAN: Generating Physical-World-Resilient Adversarial Examples for Autonomous Driving][P7] | [Code][C7] |
-
-
-
 | 2024 | arXiv  | [DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models][P8] | – |
 | 2024 | arXiv  | [MergeOcc: Bridge the Domain Gap between Different LiDARs for Robust Occupancy Prediction][P9] | – |
 | 2023 | T-IV   | [Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders][P10] | [Code][C10] |
