@@ -19,7 +19,7 @@ Coming soon......
 
 | Year | Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
-| 2018 | CVPR  | [Robust Physical-World Attacks on Deep Learning Visual Classification][P1] | – |
+| 2018 | CVPR  | [Robust Physical-World Attacks on Deep Learning Visual Classification][P1] | [Code][C1] |
 | 2025 | arXiv  | [Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion][P2] | [Code][C2] |
 | 2024 | NeurIPS| [TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight][P3] | [Code][C3] |
 | 2024 | CVPR   | [PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness][P4] | [Project Page][PP4] |
@@ -33,6 +33,8 @@ Coming soon......
 <!-- ---------- Link references: fill the TODOs with real URLs ---------- -->
 
 [P1]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8578273
+[C1]:  https://github.com/evtimovi/robust_physical_perturbations
+
 [P2]:  TODO
 [C2]:  TODO
 [P3]:  TODO
