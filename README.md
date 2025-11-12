@@ -32,7 +32,7 @@ Coming soon......
 
 <!-- ---------- Link references: fill the TODOs with real URLs ---------- -->
 
-[P1]:  [TODO](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8578273)
+[P1]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8578273
 [P2]:  TODO
 [C2]:  TODO
 [P3]:  TODO
