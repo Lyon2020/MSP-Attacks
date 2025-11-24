@@ -157,6 +157,31 @@ Coming soon......
 | 2024 | arXiv  | [MergeOcc: Bridge the Domain Gap between Different LiDARs for Robust Occupancy Prediction][P9] | – |
 | 2023 | T-IV   | [Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders][P10] | [Code][C10] |
 
+### Adversarial Attacks on Lidar-based Tasks（Object Detection）
+
+| Year | Venue  | Paper Title | Link |
+|:----:|:------:|-------------|:----:|
+| 2019 | CCS  | [Adversarial Sensor Attack on LiDAR-based Perception in Autonomous Driving][L1] |  [Project Page][LL1]  |
+| 2020 |  USENUX | [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures][L2] |  [Project Page][LL2]  |
+
+| 2021 | CVPR  | [Seeing isn’t Believing: Towards More Robust Adversarial Attack Against Real World Object Detectors][P15] | [Project Page][PP15] |
+
+| 2020 | TPS-ISA  | [Adversarial Objectness Gradient Attacks in Real-time Object Detection Systems][P16] | [Code][C16] |
+
+
+### Adversarial Attacks on Lidar-based Tasks (Object Classification)
+
+| Year | Venue  | Paper Title | Link |
+|:----:|:------:|-------------|:----:|
+| 2019 | CCS  | [Generating 3d adversarial point clouds][L1] |  [Project Page][LL1]  |
+| 2020 |  USENUX | [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures][L2] |  [Project Page][LL2]  |
+
+| 2021 | CVPR  | [Seeing isn’t Believing: Towards More Robust Adversarial Attack Against Real World Object Detectors][P15] | [Project Page][PP15] |
+
+| 2020 | TPS-ISA  | [Adversarial Objectness Gradient Attacks in Real-time Object Detection Systems][P16] | [Code][C16] |
+
+
+
 <!-- ---------- Link references: fill the TODOs with real URLs ---------- -->
 
 [P1]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8578273
@@ -300,8 +325,14 @@ Coming soon......
 [C20]:  TODO
 
 
-[P6]:  TODO
-[P7]:  TODO
+[L1]:  https://dl.acm.org/doi/pdf/10.1145/3319535.3339815
+[LL1]:  http://tinyurl.com/advlidar
+
+[L2]:  https://www.usenix.org/system/files/sec20-sun.pdf
+[LL2]:  https://sites.google.com/view/av-ioat-sec/adv-lidar-defense
+
+
+
 [PP7]: TODO
 [P8]:  TODO
 [P9]:  TODO
