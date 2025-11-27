@@ -61,27 +61,27 @@ Coming soon......
 
 | 2022 | NDSS  | [Fooling the Eyes of Autonomous Vehicles: Robust Physical Adversarial Examples Against Traffic Sign Recognition Systems][P25] | [Project Page][PP25] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P26] | [Code][C26] |
+| 2024 | T-IFS  | [Stealthy and Effective Physical Adversarial Attacks  in Autonomous Driving][P26] | [Project Page][PP26] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P27] | [Code][C27] |
+| 2024 | IOT  | [OptiCloak: Blinding Vision-Based Autonomous Driving Systems Through Adversarial Optical Projection][P27] | [-][C27] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P28] | [Code][C28] |
+| 2024 | NeurIPS | [Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection][P28] | [Code][C28] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P29] | [Code][C29] |
+| 2023 | CVPR  | [Physically Adversarial Infrared Patches with Learnable Shapes and Locations][P29] | [-][C29] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P30] | [Code][C30] |
+| 2021 | CVPR  | [Infrared Adversarial Patches with Learnable Shapes and Locations in the Physical World][P30] | [Code][C30] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P31] | [Code][C31] |
+| 2023 | ICCV  | [Unified Adversarial Patch for Cross-modal Attacks in the Physical World][P31] | [Code][C31] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P32] | [Code][C32] |
+| 2024 | T-PAMI  | [Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World][P32] | [Code][C32] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P33] | [Code][C33] |
+| 2023 | AAAI  | [HOTCOLD Block: Fooling Thermal Infrared Detectors with a Novel Wearable Design][P33] | [Code][C33] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P34] | [Code][C34] |
+| 2024 | Neural Networks  | [Adversarial infrared blocks: A multi-view black-box attack to thermal infrared detectors in physical world][P34] | [Code][C34] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P35] | [Code][C35] |
+| 2021 | CVPR  | [Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack][P35] | [Code][C35] |
 
-| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P36] | [Code][C36] |
+| 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P36] | [Project Page][PP36] |
 
 | 2021 | CVPR  | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P37] | [Code][C37] |
 
@@ -259,38 +259,38 @@ Coming soon......
 [P25]:  https://www.ndss-symposium.org/wp-content/uploads/2022-130-paper.pdf
 [PP25]:  https://seczone.cn/contents/422/1024.html
 
-[P26]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C26]:  TODO
+[P26]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10583962
+[PP26]:  Project: https://anonymous.4open.science/r/7003
 
-[P27]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
+[P27]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10538370
 [C27]:  TODO
 
-[P28]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C28]:  TODO
+[P28]:  https://www.proceedings.com/content/079/079017-0259open.pdf
+[C28]:  https://github.com/weihui1308/CAP
 
-[P29]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C29]:  TODO
+[P29]:  https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Physically_Adversarial_Infrared_Patches_With_Learnable_Shapes_and_Locations_CVPR_2023_paper.pdf
+[-]:  TODO
 
-[P30]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C30]:  TODO
+[P30]:  https://rd.springer.com/content/pdf/10.1007/s11263-023-01963-y.pdf
+[C30]:  https:// github.com/shighghyujie/infrared_patch_attack
 
-[P31]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C31]:  TODO
+[P31]:  https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Unified_Adversarial_Patch_for_Cross-Modal_Attacks_in_the_Physical_World_ICCV_2023_paper.pdf
+[C31]:  https://github.com/Aries-iai/Cross-modal_Patch_Attack
 
-[P32]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C32]:  TODO
+[P32]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310159
+[C32]:  https://github.com/Aries-iai/Cross-modal_Patch_Attack
 
-[P33]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C33]:  TODO
+[P33]:  https://ojs.aaai.org/index.php/AAAI/article/download/26777/26549
+[C33]:  https://github.com/wagner-group/reap-benchmark
 
-[P34]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C34]:  TODO
+[P34]:  https://pdf.sciencedirectassets.com/271125/1-s2.0-S0893608024X00040/1-s2.0-S089360802400234X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFMDZ7ORnaprsIdY28jxP%2FE8qYnC0g4CUbNMUSInuGSyAiEA3G52PeMBI95
+[C34]:  https://github.com/ChengYinHu/AdvIB.git
 
-[P35]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C35]:  TODO
+[P35]:  https://arxiv.org/pdf/2312.14217
+[C35]:  -
 
-[P36]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
-[C36]:  TODO
+[P36]:  https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Does_Physical_Adversarial_Example_Really_Matter_to_Autonomous_Driving_Towards_ICCV_2023_paper.pdf
+[PP36]:  https://sites.google.com/view/av-ioat-sec/sysadv
 
 [P37]:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577511
 [C37]:  TODO
