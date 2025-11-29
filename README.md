@@ -909,7 +909,7 @@ Coming soon......
 [P193]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10546476
 [C193]: https://github.com/UniAdaRepo/UniAda/
 
-[P194]: IOS Press Ebooks - Uncertainty-Encoded Multi-Modal Fusion for Robust Object Detection in Autonomous Driving
+[P194]: https://arxiv.org/pdf/2307.16121
 
 [P195]: https://papers.nips.cc/paper_files/paper/2022/file/a48ad12d588c597f4725a8b84af647b5-Paper-Datasets_and_Benchmarks.pdf
 [C195]: https://github.com/trust-ai/SafeBench
