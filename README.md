@@ -13,23 +13,27 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 <!-- ## Table of Contents...... -->
 
 
-- [Adversarial Attacks Surveys](#adversarial-attacks-surveys)
+## Table of Contents
 
-- [Adversarial Attacks on Camera](#adversarial-attacks-on-camera)
-  - [2D Tasks — Classification and Detection](#adversarial-attacks-on-2d-tasksclassification-and-detection)
-  - [2D Tasks — Segmentation](#adversarial-attacks-on-2d-taskssegmentation)
-  - [2D Tasks — Lane Detection](#adversarial-attacks-on-2d-taskslane-detection)
-  - [3D Tasks — Classification and Detection](#adversarial-attacks-on-3d-tasksclassification-and-detection)
-  - [3D Tasks — Depth Estimation](#adversarial-attacks-on-3d-tasksdepth-estimation)
+- [Methods: A Survey](#methods-a-survey)
+  - [Adversarial Attacks Surveys](#adversarial-attacks-surveys)
 
-- [Adversarial Attacks on LiDAR](#adversarial-attacks-on-lidar)
+  - [Adversarial Attacks on Camera](#adversarial-attacks-on-camera)
+    - [Adversarial Attacks on 2D Tasks——Classification and Detection](#adversarial-attacks-on-2d-tasksclassification-and-detection)
+    - [Adversarial Attacks on 2D Tasks——Semantic Segmentation](#adversarial-attacks-on-2d-taskssemantic-segmentation)
+    - [Adversarial Attacks on 2D Tasks——Lane Detection](#adversarial-attacks-on-2d-taskslane-detection)
+    - [Adversarial Attacks on 3D Tasks——Classification and Detection](#adversarial-attacks-on-3d-tasksclassification-and-detection)
+    - [Adversarial Attacks on 3D Tasks——Depth Estimation](#adversarial-attacks-on-3d-tasksdepth-estimation)
 
-- [Adversarial Attacks on Radar](#adversarial-attacks-on-radar)
+  - [Adversarial Attacks on LiDAR](#adversarial-attacks-on-lidar)
+    - [Adversarial Attacks on LiDAR——Classification and Detection](#adversarial-attacks-on-lidarclassification-and-detection)
+    - [Adversarial Attacks on LiDAR——Semantic Segmentation](#adversarial-attacks-on-lidarsemantic-segmentation)
 
-- [Adversarial Attacks on GPS](#adversarial-attacks-on-gps)
+  - [Adversarial Attacks on Radar](#adversarial-attacks-on-radar)
 
-- [Adversarial Attacks on Multi-Sensors](#adversarial-attacks-on-multi-sensors)
+  - [Adversarial Attacks on GPS](#adversarial-attacks-on-gps)
 
+  - [Adversarial Attacks on Multi-Sensors](#adversarial-attacks-on-multi-sensors)
 
 ## Methods: A Survey
 
@@ -114,7 +118,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 
 
-#### Adversarial Attacks on 2D Tasks——Segmentation
+#### Adversarial Attacks on 2D Tasks——Semantic Segmentation
 | Year | Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
 | 2025 | TM | [Black-Box Targeted Adversarial Attack on Segment Anything (SAM)][P88] | - |
@@ -205,11 +209,10 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 
 ### Adversarial Attacks on LiDAR
+#### Adversarial Attacks on LiDAR——Classification and Detection
 | Year |  Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
 | 2025 | NDSS | [On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance][P129] | [Project Page][PP129] |
-| 2025 | CVPR | [Explaining 3D Point Cloud Semantic Segmentation Models Through Adversarial Attacks][P130] | [Code][C130] |
-| 2025 | IEEE RA-L | [Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks][P131] | - |
 | 2024 | NDSS | [LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies][P132] | [Project Page][PP132] |
 | 2024 | NDSS | [Automated Tracking System for LiDAR Spoofing Attacks on Moving Targets][P133] | [Project Page][PP133] |
 | 2024 | CVPR | [Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds][P134] | [Code][C134] |
@@ -219,14 +222,11 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2023 | SP | [PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle][P138] | [Project Page][PP138] |
 | 2023 | USENIX | [You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks][P139] | [Project Page][PP139] |
 | 2023 | WACV | [Explainability-aware One Point Attack for Point Cloud Neural Networks][P140] | [Code][C140] |
-| 2023 | CVPR | [Open-set Semantic Segmentation for Point Clouds via Adversarial Prototype Framework][P141] | - |
-| 2023 | DSN | [On Adversarial Robustness of Point Cloud Semantic Segmentation][P142] | [Code][C142] |
 | 2022 | AUTOSEC | [Generating 3D Adversarial Point Clouds under the Principle of LiDARs][P143] | - |
 | 2021 | ICCV | [Fooling LiDAR Perception via Adversarial Trajectory Perturbation][P144] | [Code][C144] |
 | 2021 | CCS | [Robust Roadside Physical Adversarial Attack Against Deep Learning in LiDAR Perception Modules][P145] | [Project Page][PP145] |
 | 2021 | Neurocomputing | [Adversarial Point Cloud Perturbations Against 3D Object Detection in Autonomous Driving Systems][P146] | - |
 | 2021 | CCS | [Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?][P147] | - |
-| 2021 | SenSys | [Adversarial Attacks Against LiDAR Semantic Segmentation in Autonomous Driving][P148] | - |
 | 2020 | USENIX | [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures][P149] | [Project Page][PP149] |
 | 2020 | ECCV | [Adversarial Shape Perturbations on 3D Point Clouds][P150] | [Code][C150] |
 | 2020 | ECCV | [AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds][P151] | [Code][C151] |
@@ -236,6 +236,14 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2019 | CVPR | [Robustness of 3D Deep Learning in an Adversarial Setting][P155] | [Code][C155] |
 | 2019 | arXiv | [Adversarial Objects Against LiDAR-Based Autonomous Driving Systems][P156] | [Project Page][PP156] |
 
+##### Adversarial Attacks on LiDAR——Semantic Segmentation
+| Year |  Venue  | Paper Title | Link |
+|:----:|:------:|-------------|:----:|
+| 2025 | CVPR | [Explaining 3D Point Cloud Semantic Segmentation Models Through Adversarial Attacks][P130] | [Code][C130] |
+| 2025 | IEEE RA-L | [Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks][P131] | - |
+| 2023 | DSN | [On Adversarial Robustness of Point Cloud Semantic Segmentation][P142] | [Code][C142] |
+| 2023 | CVPR | [Open-set Semantic Segmentation for Point Clouds via Adversarial Prototype Framework][P141] | - |
+| 2021 | SenSys | [Adversarial Attacks Against LiDAR Semantic Segmentation in Autonomous Driving][P148] | - |
 
 
 ### Adversarial Attacks on Radar
