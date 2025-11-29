@@ -34,7 +34,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
   - [Adversarial Attacks on GPS](#adversarial-attacks-on-gps)
 
-  - [Adversarial Attacks on Multi-Sensors](#adversarial-attacks-on-multi-sensors)
+  - [Adversarial Attacks on Multi-Sensors](#adversarial-attacks-on-multi-sensor-fusion)
 
 ## Methods: A Survey
 
@@ -291,7 +291,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2018 | Usenix| [All your $\{GPS\}$ are belong to us: Towards stealthy manipulation of road navigation systems][P189] | - |
 
 
-### Adversarial Attacks on Multi-Sensors
+### Adversarial Attacks on Multi-Sensor-Fusion
 | Year |  Venue  | Paper Title | Link |
 |:----:|:-------:|-------------|:----:|
 | 2025 | CVPRW  | [Probing Vulnerabilities of Vision-LiDAR Based Autonomous Driving Systems][P190] | - |
