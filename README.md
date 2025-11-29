@@ -1,7 +1,6 @@
 
 <!--# **Adversarial Attacks on Autonomous Driving Perception Systems: A Multi-Sensor Perspective**-->
-# **<img width="2528" height="1696" alt="Gemini_Generated_Image_qk81hgqk81hgqk81" src="https://github.com/user-attachments/assets/c9d2b9ec-72cb-46b9-bf4d-ce7083731302" />
-A Survey on Adversarial Attacks on Autonomous Vehicles: A Multi-Sensor Perspective**
+# **A Survey on Adversarial Attacks on Autonomous Vehicles: A Multi-Sensor Perspective**
 
 ## **📌 Overview**
 
