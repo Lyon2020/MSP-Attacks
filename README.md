@@ -180,7 +180,7 @@ Coming soon......
 | 2022 | ECCV | [Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches][P125] | [Code][C125] |
 | 2022 | IROS | [Adversarial Attacks on Monocular Pose Estimation][P126] | [Code][C126] |
 | 2020 | NeurIPS | [Targeted Adversarial Perturbations for Monocular Depth Prediction][P127] | - |
-| 2020 |        | [Adversarial Attacks on Monocular Depth Estimation][P128] | - |
+| 2020 | arXiv | [Adversarial Attacks on Monocular Depth Estimation][P128] | - |
 
 
 
