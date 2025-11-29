@@ -44,7 +44,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2025 | ACM-TSEM | [A Taxonomy of System-Level Attacks on Deep Learning Models in Autonomous Vehicles][P1] | - |
 | 2025 | T-ITS | [A State-of-the-Art Review on Attacks and Defense Mechanisms for LiDAR on Autonomous Vehicles][P2] | - |
 | 2025 | T-IV | [Adversarial Attacks on Autonomous Driving Systems in the Physical World: a Survey][P4] | - |
-| 2024 | T-PMAI | [Physical Adversarial Attack Meets Computer Vision: A Decade Survey][P3] | [Code][C3] |
+| 2024 | T-PAMI | [Physical Adversarial Attack Meets Computer Vision: A Decade Survey][P3] | [Code][C3] |
 | 2024 | T-ITS | [Adapting Image Classification Adversarial Deceptions for Road Sign Misclassification in Autonomous Vehicles: A Comparative Study][P5] | - |
 | 2024 | T-ITS | [Toward Robust 3D Perception for Autonomous Vehicles: A Review of Adversarial Attacks and Countermeasures][P6] | - |
 | 2024 | arXiv | [SoK: On the Semantic AI Security in Autonomous Driving][P7] | [Code][C7] / [Project Page][PP7] |
@@ -79,7 +79,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2024 | NeurIPS | [Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection][P23] | [Code][C23] |
 | 2024 | IJCV | [Infrared Adversarial Patches with Learnable Shapes and Locations in the Physical World][P24] | [Code][C24] |
 | 2024 | T-IFS | [Stealthy and Effective Physical Adversarial Attacks  in Autonomous Driving][P25] | [Project Page][PP25] |
-| 2024 | T-PMAI | [Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World][P26] | [Code][C26] |
+| 2024 | T-PAMI | [Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World][P26] | [Code][C26] |
 | 2024 | T-ITS | [CARLA-GEAR: ADataset Generator for a Systematic Evaluation of Adversarial Robustness of Vision Models][P27] | [Code][C27] |
 | 2024 | Neural Networks | [Adversarial Infrared Curves: An Attack on Infrared Pedestrian Detectors in the Physical World][P28] | - |
 | 2024 | Neural Networks | [Adversarial infrared blocks: A mul...black-box attack to thermal infrared detectors in physical world][P29] | [Code][C29] |
@@ -96,7 +96,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2023 | USENIX | [TPatch: A Triggered Physical Adversarial Patch][P40] | [Code][C40] |
 | 2022 | NDSS | [Fooling the Eyes of Autonomous Vehicles: Robust...al Adversarial Examples Against Traffic Sign Recognition Systems][P41] | [Project Page][PP41] |
 | 2022 | CVPR | [Give me your attention: Dot-product attention considered harmful for adversarial patch robustness][P42] | - |
-| 2022 | T-PMAI | [Adversarial Stickers: A Stealthy Attack Method in the Physical World][P43] | [Code][C43] |
+| 2022 | T-PAMI | [Adversarial Stickers: A Stealthy Attack Method in the Physical World][P43] | [Code][C43] |
 | 2022 | CVPR | [Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon][P44] | [Code][C44] |
 | 2021 | CVPR | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P45] | [Code][C45] |
 | 2021 | IEEE SP | [Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision][P46] | [Code][C46] |
@@ -194,7 +194,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | Year |  Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
 | 2024 | CVPR | [Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving][P116] | [Code][C116] |
-| 2024 | T-PMAI | [Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks][P117] | [Code][C117] |
+| 2024 | T-PAMI | [Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks][P117] | [Code][C117] |
 | 2024 | ICML | [BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks][P118] | [Code][C118] |
 | 2024 | USENIX | [π-Jack: Physical-World Adversarial Attack on Monocular Depth Estimation with Perspective Hijacking][P119] | [Code][C119] |
 | 2024 | NeurIPS | [Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation][P120] | [Code][C120] |
