@@ -8,7 +8,27 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 ## **🎯 Research Scope**
 
-Coming soon......
+
+<!-- Coming soon...... -->
+<!-- ## Table of Contents...... -->
+
+
+- [Adversarial Attacks Surveys](#adversarial-attacks-surveys)
+
+- [Adversarial Attacks on Camera](#adversarial-attacks-on-camera)
+  - [2D Tasks — Classification and Detection](#adversarial-attacks-on-2d-tasksclassification-and-detection)
+  - [2D Tasks — Segmentation](#adversarial-attacks-on-2d-taskssegmentation)
+  - [2D Tasks — Lane Detection](#adversarial-attacks-on-2d-taskslane-detection)
+  - [3D Tasks — Classification and Detection](#adversarial-attacks-on-3d-tasksclassification-and-detection)
+  - [3D Tasks — Depth Estimation](#adversarial-attacks-on-3d-tasksdepth-estimation)
+
+- [Adversarial Attacks on LiDAR](#adversarial-attacks-on-lidar)
+
+- [Adversarial Attacks on Radar](#adversarial-attacks-on-radar)
+
+- [Adversarial Attacks on GPS](#adversarial-attacks-on-gps)
+
+- [Adversarial Attacks on Multi-Sensors](#adversarial-attacks-on-multi-sensors)
 
 
 ## Methods: A Survey
