@@ -12,14 +12,13 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 
 <!-- Coming soon...... -->
-<!-- ## 🎭 Table of Contents...... -->
+ ## 🎭 Table of Contents...... -->
 
 
 ## **🚀 Table of Contents**
 
 - [Methods: A Survey](#methods-a-survey)
-  - [Adversarial Attacks Surveys](#adversarial-attacks-surveys)
-
+ 
   - [Adversarial Attacks on Camera](#adversarial-attacks-on-camera)
     - [Adversarial Attacks on 2D Tasks——Classification and Detection](#adversarial-attacks-on-2d-tasksclassification-and-detection)
     - [Adversarial Attacks on 2D Tasks——Semantic Segmentation](#adversarial-attacks-on-2d-taskssemantic-segmentation)
@@ -38,36 +37,6 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
   - [Adversarial Attacks on Multi-Sensor Fusion](#adversarial-attacks-on-multi-sensor-fusion)
 
 ## Methods: A Survey
-
-### Adversarial Attacks Surveys
-| Year | Venue  | Paper Title | Link |
-|:----:|:------:|-------------|:----:|
-| 2025 | ACM-TSEM | [A Taxonomy of System-Level Attacks on Deep Learning Models in Autonomous Vehicles][P1] | - |
-| 2025 | T-ITS | [A State-of-the-Art Review on Attacks and Defense Mechanisms for LiDAR on Autonomous Vehicles][P2] | - |
-| 2025 | T-IV | [Adversarial Attacks on Autonomous Driving Systems in the Physical World: a Survey][P4] | - |
-| 2024 | T-PAMI | [Physical Adversarial Attack Meets Computer Vision: A Decade Survey][P3] | [Code][C3] |
-| 2024 | T-ITS | [Adapting Image Classification Adversarial Deceptions for Road Sign Misclassification in Autonomous Vehicles: A Comparative Study][P5] | - |
-| 2024 | T-ITS | [Toward Robust 3D Perception for Autonomous Vehicles: A Review of Adversarial Attacks and Countermeasures][P6] | - |
-| 2024 | arXiv | [SoK: On the Semantic AI Security in Autonomous Driving][P7] | [Code][C7] / [Project Page][PP7] |
-| 2023 | OJVT | [Cybersecurity of Autonomous Vehicles: A Systematic Literature Review of Adversarial Attacks and Defense Models][P9] | - |
-| 2023 | Neurocomputing | [Adversarial Examples Based on Object Detection Tasks: A Survey][P10] | - |
-| 2023 | arXiv | [A Survey on Physical Adversarial Attack in Computer Vision][P11] | [Code][C11] |
-| 2022 | T-ITS | [A Survey on Cyber-Security of Connected and Autonomous Vehicles (CAVs)][P8] | - |
-| 2022 | IEEE OJITS | [Countering Adversarial Attacks on Autonomous Vehicles Using Denoising Techniques: A Review][P12] | - |
-| 2022 | Computers & Security | [A Survey on Adversarial Attacks in Vision: Taxonomy, Visualization and Future Directions][P13] | - |
-| 2022 | arXiv | [Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey][P14] | - |
-| 2021 | T-II | [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses][P15] | - |
-| 2021 | IEEE Signal Processing Magazine | [The Vulnerability of Deep Networks to Adversarial Attacks in Autonomous Driving][P16] | - |
-| 2021 | Applied Computer Systems | [Adversarial Attacks and Defense Technologies on Autonomous Vehicles: A Review][P17] | - |
-| 2021 | Computers & Security | [Cybersecurity for Autonomous Vehicles: Review of Attacks and Defense][P18] | - |
-| 2020 | IEEE Signal Processing Magazine | [Toward Robust Sensing for Autonomous Vehicles: An Adversarial Perspective][P19] | - |
-| 2020 | ICSE | [A Comprehensive Study of Autonomous Vehicle Bugs][P20] | - |
-
-
-
-
-
-
 
 
 
