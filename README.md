@@ -124,27 +124,27 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 |:----:|:------:|-------------|:----:|
 | 2025 | T-M | [Black-Box Targeted Adversarial Attack on Segment Anything (SAM)][P88] | - |
 | 2025 | IEEE RAL | [Semantic Hierarchy-Guided Adversarial Attack for Autonomous Driving][P89] | - |
-| 2025 | IEEE SPW | [Do Adversarial Patches Generalize? Attack Transferability Study Across Real-time Segmentation Models in Autonomous Vehicles][P90] | [Code][C87] |
+| 2025 | IEEE SPW | [Do Adversarial Patches Generalize? Attack Transferability Study Across Real-time Segmentation Models in Autonomous Vehicles][P90] | [Code][C90] |
 | 2025 | AAAI | [Robust SAM: On the Adversarial Robustness of Vision Foundation Models][P91] | - |
-| 2024 | TNNLS | [On the Real-World Adversarial Robustness of Real-Time Semantic Segmentation Models for Autonomous Driving][P92] | [Code][C88] |
-| 2024 | WACV | [Uncertainty-weighted Loss Functions for Improved Adversarial Attacks on Semantic Segmentation][P93] | [Code][C89] |
+| 2024 | TNNLS | [On the Real-World Adversarial Robustness of Real-Time Semantic Segmentation Models for Autonomous Driving][P92] | [Code][C92] |
+| 2024 | WACV | [Uncertainty-weighted Loss Functions for Improved Adversarial Attacks on Semantic Segmentation][P93] | [Code][C93] |
 | 2024 | CVPR | [Practical Region-level Attack against Segment Anything Models][P94] | - |
 | 2024 | ACM MM | [Cascaded Adversarial Attack: Simultaneously Fooling Rain Removal and Semantic Segmentation Networks][P95] | - |
 | 2024 | Pattern Recognition | [Time-aware and Task-transferable Adversarial Attack for Perception of Autonomous Vehicles][P96] | - |
-| 2024 | ECCV | [Towards Reliable Evaluation and Fast Training of Robust Semantic Segmentation Models][P97] | [Code][C90] |
-| 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P98] | [Code][C91] |
+| 2024 | ECCV | [Towards Reliable Evaluation and Fast Training of Robust Semantic Segmentation Models][P97] | [Code][C97] |
+| 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P98] | [Code][C98] |
 | 2023 | T-CSVT | [Adversarial Attacks on Video Object Segmentation With Hard Region Discovery][P99] | - |
-| 2023 | TNNLS | [On the Real-World Adversarial Robustness of Real-Time Semantic Segmentation Models for Autonomous Driving][P100] | [Code][C92] |
-| 2023 | CVPR | [Proximal Splitting Adversarial Attack for Semantic Segmentation][P101] | [Code][C93] |
-| 2022 | ECCV | [SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness][P102] | [Code][C94] |
-| 2022 | WACV | [Evaluating the Robustness of Semantic Segmentation for Autonomous Driving against Real-World Adversarial Patch Attacks][P103] | [Code][C95] |
+| 2023 | TNNLS | [On the Real-World Adversarial Robustness of Real-Time Semantic Segmentation Models for Autonomous Driving][P100] | [Code][C100] |
+| 2023 | CVPR | [Proximal Splitting Adversarial Attack for Semantic Segmentation][P101] | [Code][C101] |
+| 2022 | ECCV | [SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness][P102] | [Code][C102] |
+| 2022 | WACV | [Evaluating the Robustness of Semantic Segmentation for Autonomous Driving against Real-World Adversarial Patch Attacks][P103] | [Code][C103] |
 | 2022 | WACV | [Semantically Stealthy Adversarial Attacks against Segmentation Models][P104] | - |
 | 2022 | Computers & Security | [Adversarial Attacks on YOLACT Instance Segmentation][P105] | - |
 | 2021 | T-II | [Adversarial Attack Against Urban Scene Segmentation for Autonomous Vehicles][P106] | - |
 | 2020 | RAL | [Deceiving Image-to-Image Translation Networks for Autonomous Driving With Adversarial Perturbations][P107] | - |
 | 2018 | ECCV | [Characterizing Adversarial Examples Based on Spatial Consistency Information for Semantic Segmentation][P108] | - |
-| 2018 | CVPR | [On the Robustness of Semantic Segmentation Models to Adversarial Attacks][P109] | [Code][C96] |
-| 2018 | CVPR | [On the Robustness of Semantic Segmentation Models to Adversarial Attacks (Extended Version)][P110] | [Code][C97] |
+| 2018 | CVPR | [On the Robustness of Semantic Segmentation Models to Adversarial Attacks][P109] | [Code][C109] |
+| 2018 | CVPR | [On the Robustness of Semantic Segmentation Models to Adversarial Attacks (Extended Version)][P110] | [Code][C110] |
 | 2017 | ICCV | [Universal Adversarial Perturbations Against Semantic Image Segmentation][P111] | - |
 
 
