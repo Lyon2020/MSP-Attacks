@@ -42,20 +42,20 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | Year | Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
 | 2025 | ACM-TSEM | [A Taxonomy of System-Level Attacks on Deep Learning Models in Autonomous Vehicles][P1] | - |
-| 2025 | TITS | [A State-of-the-Art Review on Attacks and Defense Mechanisms for LiDAR on Autonomous Vehicles][P2] | - |
-| 2025 | TIV | [Adversarial Attacks on Autonomous Driving Systems in the Physical World: a Survey][P4] | - |
-| 2024 | TPMI | [Physical Adversarial Attack Meets Computer Vision: A Decade Survey][P3] | [Code][C3] |
-| 2024 | TITS | [Adapting Image Classification Adversarial Deceptions for Road Sign Misclassification in Autonomous Vehicles: A Comparative Study][P5] | - |
-| 2024 | TITS | [Toward Robust 3D Perception for Autonomous Vehicles: A Review of Adversarial Attacks and Countermeasures][P6] | - |
+| 2025 | T-ITS | [A State-of-the-Art Review on Attacks and Defense Mechanisms for LiDAR on Autonomous Vehicles][P2] | - |
+| 2025 | T-IV | [Adversarial Attacks on Autonomous Driving Systems in the Physical World: a Survey][P4] | - |
+| 2024 | T-PMAI | [Physical Adversarial Attack Meets Computer Vision: A Decade Survey][P3] | [Code][C3] |
+| 2024 | T-ITS | [Adapting Image Classification Adversarial Deceptions for Road Sign Misclassification in Autonomous Vehicles: A Comparative Study][P5] | - |
+| 2024 | T-ITS | [Toward Robust 3D Perception for Autonomous Vehicles: A Review of Adversarial Attacks and Countermeasures][P6] | - |
 | 2024 | arXiv | [SoK: On the Semantic AI Security in Autonomous Driving][P7] | [Code][C7] / [Project Page][PP7] |
 | 2023 | OJVT | [Cybersecurity of Autonomous Vehicles: A Systematic Literature Review of Adversarial Attacks and Defense Models][P9] | - |
 | 2023 | Neurocomputing | [Adversarial Examples Based on Object Detection Tasks: A Survey][P10] | - |
 | 2023 | arXiv | [A Survey on Physical Adversarial Attack in Computer Vision][P11] | [Code][C11] |
-| 2022 | TITS | [A Survey on Cyber-Security of Connected and Autonomous Vehicles (CAVs)][P8] | - |
+| 2022 | T-ITS | [A Survey on Cyber-Security of Connected and Autonomous Vehicles (CAVs)][P8] | - |
 | 2022 | IEEE OJITS | [Countering Adversarial Attacks on Autonomous Vehicles Using Denoising Techniques: A Review][P12] | - |
 | 2022 | Computers & Security | [A Survey on Adversarial Attacks in Vision: Taxonomy, Visualization and Future Directions][P13] | - |
 | 2022 | arXiv | [Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey][P14] | - |
-| 2021 | TII | [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses][P15] | - |
+| 2021 | T-II | [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses][P15] | - |
 | 2021 | IEEE Signal Processing Magazine | [The Vulnerability of Deep Networks to Adversarial Attacks in Autonomous Driving][P16] | - |
 | 2021 | Applied Computer Systems | [Adversarial Attacks and Defense Technologies on Autonomous Vehicles: A Review][P17] | - |
 | 2021 | Computers & Security | [Cybersecurity for Autonomous Vehicles: Review of Attacks and Defense][P18] | - |
@@ -78,9 +78,9 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2025 | ICCV | [Adversarial Attention Perturbations for Large Object Detection Transformers][P22] | [Code][C22] |
 | 2024 | NeurIPS | [Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection][P23] | [Code][C23] |
 | 2024 | IJCV | [Infrared Adversarial Patches with Learnable Shapes and Locations in the Physical World][P24] | [Code][C24] |
-| 2024 | TIFS | [Stealthy and Effective Physical Adversarial Attacks  in Autonomous Driving][P25] | [Project Page][PP25] |
-| 2024 | TPMI | [Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World][P26] | [Code][C26] |
-| 2024 | TITS | [CARLA-GEAR: ADataset Generator for a Systematic Evaluation of Adversarial Robustness of Vision Models][P27] | [Code][C27] |
+| 2024 | T-IFS | [Stealthy and Effective Physical Adversarial Attacks  in Autonomous Driving][P25] | [Project Page][PP25] |
+| 2024 | T-PMAI | [Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World][P26] | [Code][C26] |
+| 2024 | T-ITS | [CARLA-GEAR: ADataset Generator for a Systematic Evaluation of Adversarial Robustness of Vision Models][P27] | [Code][C27] |
 | 2024 | Neural Networks | [Adversarial Infrared Curves: An Attack on Infrared Pedestrian Detectors in the Physical World][P28] | - |
 | 2024 | Neural Networks | [Adversarial infrared blocks: A mul...black-box attack to thermal infrared detectors in physical world][P29] | [Code][C29] |
 | 2024 | NDSS | [Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception][P30] | [Project Page][PP30] |
@@ -96,11 +96,11 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2023 | USENIX | [TPatch: A Triggered Physical Adversarial Patch][P40] | [Code][C40] |
 | 2022 | NDSS | [Fooling the Eyes of Autonomous Vehicles: Robust...al Adversarial Examples Against Traffic Sign Recognition Systems][P41] | [Project Page][PP41] |
 | 2022 | CVPR | [Give me your attention: Dot-product attention considered harmful for adversarial patch robustness][P42] | - |
-| 2022 | TPMI | [Adversarial Stickers: A Stealthy Attack Method in the Physical World][P43] | [Code][C43] |
+| 2022 | T-PMAI | [Adversarial Stickers: A Stealthy Attack Method in the Physical World][P43] | [Code][C43] |
 | 2022 | CVPR | [Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon][P44] | [Code][C44] |
 | 2021 | CVPR | [Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink][P45] | [Code][C45] |
 | 2021 | IEEE SP | [Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision][P46] | [Code][C46] |
-| 2021 | Usenix | [SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations][P47] | [Code][C47] |
+| 2021 | USENIX | [SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations][P47] | [Code][C47] |
 | 2021 | JIOT | [Adaptive Square Attack: Fooling Autonomous Cars With Adversarial Traffic Signs][P48] | [Code][C48] |
 | 2021 | AAAI | [Fooling Thermal Infrared Pedestrian Detectors in Real World Using Small Bulbs][P49] | - |
 | 2021 | ICCV | [Naturalistic Physical Adversarial Patch for Object Detectors][P50] | [Code][C50] |
@@ -122,7 +122,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 #### Adversarial Attacks on 2D Tasks——Semantic Segmentation
 | Year | Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
-| 2025 | TM | [Black-Box Targeted Adversarial Attack on Segment Anything (SAM)][P88] | - |
+| 2025 | T-M | [Black-Box Targeted Adversarial Attack on Segment Anything (SAM)][P88] | - |
 | 2025 | IEEE RAL | [Semantic Hierarchy-Guided Adversarial Attack for Autonomous Driving][P89] | - |
 | 2025 | IEEE SPW | [Do Adversarial Patches Generalize? Attack Transferability Study Across Real-time Segmentation Models in Autonomous Vehicles][P90] | [Code][C87] |
 | 2025 | AAAI | [Robust SAM: On the Adversarial Robustness of Vision Foundation Models][P91] | - |
@@ -133,14 +133,14 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2024 | Pattern Recognition | [Time-aware and Task-transferable Adversarial Attack for Perception of Autonomous Vehicles][P96] | - |
 | 2024 | ECCV | [Towards Reliable Evaluation and Fast Training of Robust Semantic Segmentation Models][P97] | [Code][C90] |
 | 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P98] | [Code][C91] |
-| 2023 | TCSVT | [Adversarial Attacks on Video Object Segmentation With Hard Region Discovery][P99] | - |
+| 2023 | T-CSVT | [Adversarial Attacks on Video Object Segmentation With Hard Region Discovery][P99] | - |
 | 2023 | TNNLS | [On the Real-World Adversarial Robustness of Real-Time Semantic Segmentation Models for Autonomous Driving][P100] | [Code][C92] |
 | 2023 | CVPR | [Proximal Splitting Adversarial Attack for Semantic Segmentation][P101] | [Code][C93] |
 | 2022 | ECCV | [SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness][P102] | [Code][C94] |
 | 2022 | WACV | [Evaluating the Robustness of Semantic Segmentation for Autonomous Driving against Real-World Adversarial Patch Attacks][P103] | [Code][C95] |
 | 2022 | WACV | [Semantically Stealthy Adversarial Attacks against Segmentation Models][P104] | - |
 | 2022 | Computers & Security | [Adversarial Attacks on YOLACT Instance Segmentation][P105] | - |
-| 2021 | TII | [Adversarial Attack Against Urban Scene Segmentation for Autonomous Vehicles][P106] | - |
+| 2021 | T-II | [Adversarial Attack Against Urban Scene Segmentation for Autonomous Vehicles][P106] | - |
 | 2020 | RAL | [Deceiving Image-to-Image Translation Networks for Autonomous Driving With Adversarial Perturbations][P107] | - |
 | 2018 | ECCV | [Characterizing Adversarial Examples Based on Spatial Consistency Information for Semantic Segmentation][P108] | - |
 | 2018 | CVPR | [On the Robustness of Semantic Segmentation Models to Adversarial Attacks][P109] | [Code][C96] |
@@ -153,8 +153,8 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 |:----:|:------:|-------------|:----:|
 | 2024 | arXiv | [Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles][P112] | [Code][C112] |
 | 2022 | MM | [Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving][P113] | [Code][C113] |
-| 2021 | USenix | [Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack][P114] | [Code][C114] / [Project Page][PP114] |
-| 2021 | USenix | [Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations][P115] | [Code][C115] / [Project Page][PP115] |
+| 2021 | USENIX | [Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack][P114] | [Code][C114] / [Project Page][PP114] |
+| 2021 | USENIX | [Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations][P115] | [Code][C115] / [Project Page][PP115] |
 
 
 
@@ -163,9 +163,9 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 #### Adversarial Attacks on 3D Tasks——Classification and Detection
 | Year | Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
-| 2025 | TCSVT | [A Unified Framework for Adversarial Patch Attacks Against Visual 3D Object Detection in Autonomous Driving][P63] | - |
-| 2025 | TIP | [Physically Realizable Adversarial Creating Attack Against Vision-Based BEV Space 3D Object Detection][P64] | - |
-| 2025 | TDSC | [Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors][P65] | [Code][C65] |
+| 2025 | T-CSVT | [A Unified Framework for Adversarial Patch Attacks Against Visual 3D Object Detection in Autonomous Driving][P63] | - |
+| 2025 | T-IP | [Physically Realizable Adversarial Creating Attack Against Vision-Based BEV Space 3D Object Detection][P64] | - |
+| 2025 | T-DSC | [Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors][P65] | [Code][C65] |
 | 2025 | ICCV | [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation][P66] | [Code][C66] |
 | 2024 | NeurIPS | [CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors][P67] | [Code][C67] |
 | 2024 | arXiv | [Adv3D: Generating 3D Adversarial Examples for 3D Object Detection in Driving Scenarios with NeRF][P68] | [Code][C68] |
@@ -178,7 +178,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2023 | ICCV | [ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion][P75] | [Project Page][PP75] |
 | 2023 | CVPR | [Understanding the Robustness of 3D Object Detection with Bird’s-Eye-View Representations in Autonomous Driving][P76] | [Code][C76] |
 | 2023 | CVPR | [Towards Benchmarking and Assessing Visual Naturalness of Physical World Adversarial Attacks][P77] | [Code][C77] |
-| 2023 | PR | [Boosting Transferability of Physical Attack Against Detectors by Redistributing Separable Attention][P78] | [Code][C78] |
+| 2023 | Pattern Recognition | [Boosting Transferability of Physical Attack Against Detectors by Redistributing Separable Attention][P78] | [Code][C78] |
 | 2022 | AAAI | [FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack][P79] | [Code][C79] |
 | 2022 | CVPR | [DTA: Physical Camouflage Attacks using Differentiable Transformation Network][P80] | [Project Page][PP80] |
 | 2022 | IJCAI | [Learning Coated Adversarial Camouflages for Object Detectors][P81] | - |
@@ -194,7 +194,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | Year |  Venue  | Paper Title | Link |
 |:----:|:------:|-------------|:----:|
 | 2024 | CVPR | [Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving][P116] | [Code][C116] |
-| 2024 | TPMI | [Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks][P117] | [Code][C117] |
+| 2024 | T-PMAI | [Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks][P117] | [Code][C117] |
 | 2024 | ICML | [BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks][P118] | [Code][C118] |
 | 2024 | USENIX | [π-Jack: Physical-World Adversarial Attack on Monocular Depth Estimation with Perspective Hijacking][P119] | [Code][C119] |
 | 2024 | NeurIPS | [Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation][P120] | [Code][C120] |
@@ -217,9 +217,9 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2024 | NDSS | [LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies][P132] | [Project Page][PP132] |
 | 2024 | NDSS | [Automated Tracking System for LiDAR Spoofing Attacks on Moving Targets][P133] | [Project Page][PP133] |
 | 2024 | CVPR | [Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds][P134] | [Code][C134] |
-| 2024 | TITS | [Sr-adv: Salient Region Adversarial Attacks on 3D Point Clouds for Autonomous Driving][P135] | - |
+| 2024 | T-ITS | [Sr-adv: Salient Region Adversarial Attacks on 3D Point Clouds for Autonomous Driving][P135] | - |
 | 2023 | CVPR | [SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples][P136] | [Code][C136] |
-| 2023 | TGRS | [EVAA—Exchange Vanishing Adversarial Attack on LiDAR Point Clouds in Autonomous Vehicles][P137] | - |
+| 2023 | T-GRS | [EVAA—Exchange Vanishing Adversarial Attack on LiDAR Point Clouds in Autonomous Vehicles][P137] | - |
 | 2023 | SP | [PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle][P138] | [Project Page][PP138] |
 | 2023 | USENIX | [You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks][P139] | [Project Page][PP139] |
 | 2023 | WACV | [Explainability-aware One Point Attack for Point Cloud Neural Networks][P140] | [Code][C140] |
@@ -259,7 +259,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2023 | arXiv | [Madradar: A Black-box Physical Layer Attack Framework on mmWave Automotive FMCW Radars][P163] | [Project Page][PP163] |
 | 2022 | ITSM | [Comparative Analysis of Radar and LiDAR Technologies for Automotive Applications][P164] | - |
 | 2022 | arXiv | [Adversarial Attack on Radar-based Environment Perception Systems][P165] | - |
-| 2021 | TIFS | [Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles][P166] | [Code][C166] |
+| 2021 | T-IFS | [Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles][P166] | [Code][C166] |
 | 2021 | JCE | [Low-cost Distance-spoofing Attack on FMCW Radar and Its Feasibility Study on Countermeasure][P167] | - |
 | 2021 | ASHES | [Spoofing Attacks Against Vehicular FMCW Radar][P168] | - |
 | 2020 | Information Sciences | [Adversarial Attacks on Deep-learning-based Radar Range Profile Target Recognition][P169] | - |
@@ -273,22 +273,22 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2025 | IoTJ  | [GPS Attack Detection and Defense for Secure Localization of Automated Vehicles Based on Vehicle-to-Vehicle Technology][P171] | - |
 | 2025 | ojvt  | [Detection of Multiple Small Biased GPS Spoofing Attacks on Autonomous Vehicles Using Time Series Analysis][P172] | - |
 | 2025 | arXiv | [GPS Spoofing Attack Detection in Autonomous Vehicles Using Adaptive DBSCAN][P173] | - |
-| 2025 | TPS   | [Safe Driving Adversarial Trajectory Can Mislead: Toward More Stealthy Adversarial Attack Against Autonomous Driving Prediction Module][P174] | - |
+| 2025 | T-PS   | [Safe Driving Adversarial Trajectory Can Mislead: Toward More Stealthy Adversarial Attack Against Autonomous Driving Prediction Module][P174] | - |
 | 2025 | IEEE  | [Detection of multiple small biased GPS spoofing attacks on autonomous vehicles][P175] | - |
-| 2024 | TVT   | [Robust Indoor Positioning of Automated Guided Vehicles in Internet of Things Networks With Deep Convolution Neural Network Considering Adversarial Attacks][P176] | - |
-| 2024 | TVT   | [Anomaly Detection and Secure Position Estimation Against GPS Spoofing Attack: A Security-Critical Study of Localization in Autonomous Driving][P177] | - |
+| 2024 | T-VT   | [Robust Indoor Positioning of Automated Guided Vehicles in Internet of Things Networks With Deep Convolution Neural Network Considering Adversarial Attacks][P176] | - |
+| 2024 | T-VT   | [Anomaly Detection and Secure Position Estimation Against GPS Spoofing Attack: A Security-Critical Study of Localization in Autonomous Driving][P177] | - |
 | 2024 | IEEE  | [GPS Spoofing Detection on Autonomous Vehicles with XGBoost][P178] | - |
-| 2023 | TITS  | [Anomaly Detection Against GPS Spoofing Attacks on Connected and Autonomous Vehicles Using Learning From Demonstration][P179] | - |
-| 2023 | TITS  | [Infrastructure-Enabled GPS Spoofing Detection and Correction][P180] | - |
+| 2023 | T-ITS  | [Anomaly Detection Against GPS Spoofing Attacks on Connected and Autonomous Vehicles Using Learning From Demonstration][P179] | - |
+| 2023 | T-ITS  | [Infrastructure-Enabled GPS Spoofing Detection and Correction][P180] | - |
 | 2023 | IEEE  | [A machine learning approach for detecting gps location spoofing attacks in autonomous vehicles][P181] | - |
 | 2023 | IEEE  | [Securing Autonomous Vehicles Against GPS Spoofing Attacks: A Deep Learning Approach][P182] | - |
-| 2021 | TM    | [Covert Attacks Through Adversarial Learning: Study of Lane Keeping Attacks on the Safety of Autonomous Vehicles][P183] | - |
+| 2021 | T-M    | [Covert Attacks Through Adversarial Learning: Study of Lane Keeping Attacks on the Safety of Autonomous Vehicles][P183] | - |
 | 2021 | IEEE  | [GPS location spoofing attack detection for enhancing the security of autonomous vehicles][P184] | - |
-| 2020 | TVT   | [Localizing Spoofing Attacks on Vehicular GPS Using Vehicle-to-Vehicle Communications][P185] | - |
+| 2020 | T-VT   | [Localizing Spoofing Attacks on Vehicular GPS Using Vehicle-to-Vehicle Communications][P185] | - |
 | 2019 | SP    | [Security of GPS/INS Based On-road Location Tracking Systems][P186] | - |
 | 2019 | IEEE  | [Security of GPS/INS based on-road location tracking systems][P187] | - |
 | 2018 | USENIX| [All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems][P188] | - |
-| 2018 | Usenix| [All your $\{GPS\}$ are belong to us: Towards stealthy manipulation of road navigation systems][P189] | - |
+| 2018 | USENIX| [All your $\{GPS\}$ are belong to us: Towards stealthy manipulation of road navigation systems][P189] | - |
 
 
 ### Adversarial Attacks on Multi-Sensor Fusion
@@ -302,10 +302,10 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2022 | NeurIPS | [SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles][P195] | [Code][C195] / [Project Page][PP195] |
 | 2022 | USENIX | [Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles][P196] | - |
 | 2021 | IEEE S\&P | [Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks][P197] | [Code][C197] / [Project Page][PP197] |
-| 2021 | TDSC  | [“Seeing is Not Always Believing”: Detecting Perception Error Attacks Against Autonomous Vehicles][P198] | - |
+| 2021 | T-DSC  | [“Seeing is Not Always Believing”: Detecting Perception Error Attacks Against Autonomous Vehicles][P198] | - |
 | 2021 | CoRL  | [Exploring Adversarial Robustness of Multi-sensor Perception Systems in Self Driving][P199] | - |
 | 2021 | IROS  | [Adversarial Attacks on Camera-LiDAR Models for 3D Car Detection][P200] | - |
-| 2021 | TVT   | [Multi-Source Adversarial Sample Attack on Autonomous Vehicles][P201] | - |
+| 2021 | T-VT   | [Multi-Source Adversarial Sample Attack on Autonomous Vehicles][P201] | - |
 | 2021 | IJIS  | [Camdar-adv: Generating adversarial patches on 3D object][P202] | - |
 | 2020 | USENIX | [Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing][P203] | [Project Page][PP203] |
 
