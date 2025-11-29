@@ -34,7 +34,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
   - [Adversarial Attacks on GPS](#adversarial-attacks-on-gps)
 
-  - [Adversarial Attacks on Multi-Sensors Fusion](#adversarial-attacks-on-multi-sensor-fusion)
+  - [Adversarial Attacks on Multi-Sensor Fusion](#adversarial-attacks-on-multi-sensor-fusion)
 
 ## Methods: A Survey
 
