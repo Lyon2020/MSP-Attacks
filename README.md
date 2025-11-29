@@ -1,7 +1,7 @@
 
 <!--# **Adversarial Attacks on Autonomous Driving Perception Systems: A Multi-Sensor Perspective**-->
 
-# **A Survey on Adversarial Attacks on Autonomous Vehicles: A Multi-Sensor Perspective**
+# **🚗 A Survey on Adversarial Attacks on Autonomous Vehicles: A Multi-Sensor Perspective**
 
 ## **📌 Overview**
 
@@ -15,7 +15,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 <!-- ## Table of Contents...... -->
 
 
-## **🚗🎭 Table of Contents**
+## **🎭 Table of Contents**
 
 - [Methods: A Survey](#methods-a-survey)
   - [Adversarial Attacks Surveys](#adversarial-attacks-surveys)
