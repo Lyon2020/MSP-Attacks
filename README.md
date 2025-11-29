@@ -54,7 +54,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2024 | Neural Networks | [Adversarial Infrared Curves: An Attack on Infrared Pedestrian Detectors in the Physical World][P28] | - |
 | 2024 | Neural Networks | [Adversarial infrared blocks: A mul...black-box attack to thermal infrared detectors in physical world][P29] | [Code][C29] |
 | 2024 | NDSS | [Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception][P30] | [Project Page][PP30] |
-| 2024 | IOT | [OptiCloak: Blinding Vision-Based Autonomous Driving Systems Through Adversarial Optical Projection][P31] | - |
+| 2024 | JIOT | [OptiCloak: Blinding Vision-Based Autonomous Driving Systems Through Adversarial Optical Projection][P31] | - |
 | 2023 | IV | [Adversarial Driving: Attacking End-to-End Autonomous Driving][P32] | [Code][C32] |
 | 2023 | Computers & Security | [Light can be Dangerous: Steal...y and Effective Physical-world Adversarial Attack by Spot Light][P33] | - |
 | 2023 | AAAI | [HOTCOLD Block: Fooling Thermal Infrared Detectors with a Novel Wearable Design][P34] | [Code][C34] / [Project Page][PP34] |
