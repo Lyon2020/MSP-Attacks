@@ -19,7 +19,6 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 
 <!-- Coming soon...... -->
-<!--## 🎭 Table of Contents...... -->
 
 
 ## **🚀 Table of Contents**
