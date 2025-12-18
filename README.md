@@ -10,6 +10,13 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 ## **🎯 Research Scope**
 
+<div align="center">
+  <img src="./assets/sensor_silhouette.png" alt="Vehicle Sensor Silhouette Diagram" width="80%">
+  <br>
+  <em>Figure 1 illustrates the schematic distribution of key autonomous driving sensor modalities (Camera, LiDAR, Radar, and GPS) covered within our research scope across the vehicle silhouette.</em>
+</div>
+
+
 
 <!-- Coming soon...... -->
 <!--## 🎭 Table of Contents...... -->
