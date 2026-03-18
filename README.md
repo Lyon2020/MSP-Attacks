@@ -42,7 +42,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
   - [Adversarial Attacks on Multi-Modal Fusion](#adversarial-attacks-on-multi-modal-fusion)
  
-  - [General Defense Paradigm](#General Defense Paradigm)
+  - [General Defense Paradigm](#General-Defense-Paradigm)
 
 ## Methods: A Survey
 
@@ -288,7 +288,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 
 
-## General Defense Paradigm
+### General Defense Paradigm
 | Year | Venue | Paper Title | Link |
 |:----:|:-----:|-------------|:----:|
 | 2021 | ICCV | [PointGuard: Provably Robust 3D Point Cloud Classification][P301] | - |
