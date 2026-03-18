@@ -110,7 +110,6 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2024 | ACM MM | [Cascaded Adversarial Attack: Simultaneously Fooling Rain Removal and Semantic Segmentation Networks][P95] | - |
 | 2024 | Pattern Recognition | [Time-aware and Task-transferable Adversarial Attack for Perception of Autonomous Vehicles][P96] | - |
 | 2024 | ECCV | [Towards Reliable Evaluation and Fast Training of Robust Semantic Segmentation Models][P97] | [Code][C97] |
-<!-- | 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P98] | [Code][C98] | -->
 | 2023 | T-CSVT | [Adversarial Attacks on Video Object Segmentation With Hard Region Discovery][P99] | - |
 | 2023 | TNNLS | [On the Real-World Adversarial Robustness of Real-Time Semantic Segmentation Models for Autonomous Driving][P100] | [Code][C100] |
 | 2023 | CVPR | [Proximal Splitting Adversarial Attack for Semantic Segmentation][P101] | [Code][C101] |
@@ -289,7 +288,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 
 
-##General Defense Paradigm
+## General Defense Paradigm
 | Year | Venue | Paper Title | Link |
 |:----:|:-----:|-------------|:----:|
 | 2021 | ICCV | [PointGuard: Provably Robust 3D Point Cloud Classification][P301] | - |
