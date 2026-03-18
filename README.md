@@ -41,6 +41,8 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
   - [Adversarial Attacks on GPS](#adversarial-attacks-on-gps)
 
   - [Adversarial Attacks on Multi-Modal Fusion](#adversarial-attacks-on-multi-modal-fusion)
+ 
+  - [General Defense Paradigm](#defense-methods-for-multi-modal-fusion)
 
 ## Methods: A Survey
 
@@ -108,7 +110,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 | 2024 | ACM MM | [Cascaded Adversarial Attack: Simultaneously Fooling Rain Removal and Semantic Segmentation Networks][P95] | - |
 | 2024 | Pattern Recognition | [Time-aware and Task-transferable Adversarial Attack for Perception of Autonomous Vehicles][P96] | - |
 | 2024 | ECCV | [Towards Reliable Evaluation and Fast Training of Robust Semantic Segmentation Models][P97] | [Code][C97] |
-| 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P98] | [Code][C98] |
+<!-- | 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P98] | [Code][C98] | -->
 | 2023 | T-CSVT | [Adversarial Attacks on Video Object Segmentation With Hard Region Discovery][P99] | - |
 | 2023 | TNNLS | [On the Real-World Adversarial Robustness of Real-Time Semantic Segmentation Models for Autonomous Driving][P100] | [Code][C100] |
 | 2023 | CVPR | [Proximal Splitting Adversarial Attack for Semantic Segmentation][P101] | [Code][C101] |
@@ -287,8 +289,34 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 
 
-
-
+##General Defense Paradigm
+| Year | Venue | Paper Title | Link |
+|:----:|:-----:|-------------|:----:|
+| 2021 | ICCV | [PointGuard: Provably Robust 3D Point Cloud Classification][P301] | - |
+| 2022 | CVPR | [3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection][P302] | [Project Page][PP302] |
+| 2022 | T-CAD | [Counteracting adversarial attacks in autonomous driving][P303] | - |
+| 2023 | ICLR | [PART-BASED MODELS IMPROVE ADVERSARIAL ROBUSTNESS][P304] | [Code][C304] |
+| 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P305] | [Code][C305] |
+| 2024 | T-PAMI | [Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks][P306] | [Code][C306] |
+| 2025 | AAAI | [COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks][P307] | - |
+| 2025 | IROS | [RoCaRS: Robust Camera-Radar BEV Segmentation for Sensor Failure Scenarios][P308] | - |
+| 2025 | CVPR | [Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion][P309] | [Code][C309] |
+| 2021 | T-IP | [Defending Person Detection Against Adversarial Patch Attack by using Universal Defensive Frame][P310] | - |
+| 2022 | T-ITS | [CSG: Classifier-aware defense strategy based on compressive sensing and generative networks for visual recognition in autonomous vehicle systems][P311] | - |
+| 2022 | ICML | [Diffusion Models for Adversarial Purification][P312] | [Code][C312] |
+| 2023 | ACM MM | [Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion][P313] | [Code][C313] |
+| 2024 | T-C | [An efficient preprocessing-based approach to mitigate advanced adversarial attacks][P314] | - |
+| 2024 | CVPR | [MimicDiffusion: Purifying adversarial perturbation via mimicking clean diffusion model][P315] | [Code][C315] |
+| 2025 | ACM | [Towards Real-Time Defense against Object-Based LiDAR Attacks in Autonomous Driving][P316] | - |
+| 2021 | T-DSC | [Seeing is Not Always Believing: Detecting Perception Error Attacks Against Autonomous Vehicles][P317] | - |
+| 2021 | T-IFS | [Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles][P318] | - |
+| 2021 | IoTJ | [Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems][P319] | - |
+| 2022 | T-ITS | [A Sensor Fusion-Based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles][P320] | - |
+| 2022 | SPW | [Using 3D shadows to detect object hiding attacks on autonomous vehicle perception][P321] | - |
+| 2023 | TIFS | [Radar2: Passive Spy Radar Detection and Localization][P322] | - |
+| 2023 | NDSS | [Cooperative Perception for Safe Control of Autonomous Vehicles under LiDAR Spoofing Attacks][P323] | - |
+| 2023 | IROS | [Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection][P324] | [Project Page][PP324] |
+| 2024 | DAC | [Laser Shield: A Physical Defense with Polarizer against Laser Attacks on Autonomous Driving Systems][P325] | [Code][C325] |
 
 
 
@@ -938,5 +966,78 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
 [P203]: https://www.usenix.org/system/files/sec20-shen.pdf
 [PP203]: https://sites.google.com/view/av-ioat-sec/fusionripper
+
+
+
+
+
+
+
+
+
+
+
+
+[P301]: https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_PointGuard_Provably_Robust_3D_Point_Cloud_Classification_CVPR_2021_paper.pdf
+
+[P302]: https://openaccess.thecvf.com/content/CVPR2022/papers/Lehner_3D-VField_Adversarial_Augmentation_of_Point_Clouds_for_Domain_Generalization_in_CVPR_2022_paper.pdf
+[PP302]: https://crashd-cars.github.io/
+
+[P303]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751711
+
+[P304]: https://arxiv.org/pdf/2209.09117
+[C304]: https://github.com/chawins/adv-part-model
+
+[P305]: https://arxiv.org/pdf/2308.03979
+[C305]: https://github.com/LiuZhu-CV/PAIF
+
+[P306]: https://ieeexplore.ieee.org/document/10559903
+[C306]: https://github.com/Bob-cheng/DepthModelHardening
+
+[P307]: https://ojs.aaai.org/index.php/AAAI/article/view/33927
+
+[P308]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246952
+
+[P309]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246952
+[C309]: https://github.com/konyul/MoME
+
+
+[P310]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9417240
+
+[P311]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9713747
+
+[P312]: https://arxiv.org/pdf/2205.07460
+[C312]: https://github.com/NVlabs/DiffPure
+
+[P313]: https://dl.acm.org/doi/epdf/10.1145/3581783.3612018
+[C313]: https://github.com/ZhangXGe/Ada3Diff
+
+[P314]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9420266
+
+[P315]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658206
+[C315]: https://github.com/psky1111/MimicDiffusion
+
+[P316]: https://dl.acm.org/doi/epdf/10.1145/3719027.3765227
+
+
+[P317]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425012
+
+[P318]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9417240
+
+[P319]: https://arxiv.org/pdf/2110.10523
+
+[P320]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9868262
+
+[P321]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833890
+
+[P322]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105863
+
+[P323]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23066-paper.pdf
+
+[P324]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10342017
+[PP324]: https://sites.google.com/view/cav-sec/LD3
+
+[P325]: https://dl.acm.org/doi/epdf/10.1145/3649329.3657358
+[C325]: https://github.com/qingjiesjtu/LaserShield
 
 
