@@ -291,31 +291,31 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 ### General Defense Paradigm
 | Year | Venue | Paper Title | Link |
 |:----:|:-----:|-------------|:----:|
-| 2021 | ICCV | [PointGuard: Provably Robust 3D Point Cloud Classification][P301] | - |
-| 2022 | CVPR | [3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection][P302] | [Project Page][PP302] |
-| 2022 | T-CAD | [Counteracting adversarial attacks in autonomous driving][P303] | - |
+| 2025 | CVPR | [Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion][P309] | [Code][C309] |
+| 2025 | IROS | [RoCaRS: Robust Camera-Radar BEV Segmentation for Sensor Failure Scenarios][P308] | - |
+| 2025 | AAAI | [COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks][P307] | - |
+| 2025 | ACM | [Towards Real-Time Defense against Object-Based LiDAR Attacks in Autonomous Driving][P316] | - |
+| 2024 | CVPR | [MimicDiffusion: Purifying adversarial perturbation via mimicking clean diffusion model][P315] | [Code][C315] |
+| 2024 | T-PAMI | [Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks][P306] | [Code][C306] |
+| 2024 | T-C | [An efficient preprocessing-based approach to mitigate advanced adversarial attacks][P314] | - |
+| 2024 | DAC | [Laser Shield: A Physical Defense with Polarizer against Laser Attacks on Autonomous Driving Systems][P325] | [Code][C325] |
 | 2023 | ICLR | [PART-BASED MODELS IMPROVE ADVERSARIAL ROBUSTNESS][P304] | [Code][C304] |
 | 2023 | ACM MM | [PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation][P305] | [Code][C305] |
-| 2024 | T-PAMI | [Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks][P306] | [Code][C306] |
-| 2025 | AAAI | [COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks][P307] | - |
-| 2025 | IROS | [RoCaRS: Robust Camera-Radar BEV Segmentation for Sensor Failure Scenarios][P308] | - |
-| 2025 | CVPR | [Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion][P309] | [Code][C309] |
-| 2021 | T-IP | [Defending Person Detection Against Adversarial Patch Attack by using Universal Defensive Frame][P310] | - |
-| 2022 | T-ITS | [CSG: Classifier-aware defense strategy based on compressive sensing and generative networks for visual recognition in autonomous vehicle systems][P311] | - |
-| 2022 | ICML | [Diffusion Models for Adversarial Purification][P312] | [Code][C312] |
 | 2023 | ACM MM | [Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion][P313] | [Code][C313] |
-| 2024 | T-C | [An efficient preprocessing-based approach to mitigate advanced adversarial attacks][P314] | - |
-| 2024 | CVPR | [MimicDiffusion: Purifying adversarial perturbation via mimicking clean diffusion model][P315] | [Code][C315] |
-| 2025 | ACM | [Towards Real-Time Defense against Object-Based LiDAR Attacks in Autonomous Driving][P316] | - |
-| 2021 | T-DSC | [Seeing is Not Always Believing: Detecting Perception Error Attacks Against Autonomous Vehicles][P317] | - |
-| 2021 | T-IFS | [Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles][P318] | - |
-| 2021 | IoTJ | [Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems][P319] | - |
-| 2022 | T-ITS | [A Sensor Fusion-Based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles][P320] | - |
-| 2022 | SPW | [Using 3D shadows to detect object hiding attacks on autonomous vehicle perception][P321] | - |
 | 2023 | TIFS | [Radar2: Passive Spy Radar Detection and Localization][P322] | - |
 | 2023 | NDSS | [Cooperative Perception for Safe Control of Autonomous Vehicles under LiDAR Spoofing Attacks][P323] | - |
 | 2023 | IROS | [Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection][P324] | [Project Page][PP324] |
-| 2024 | DAC | [Laser Shield: A Physical Defense with Polarizer against Laser Attacks on Autonomous Driving Systems][P325] | [Code][C325] |
+| 2022 | CVPR | [3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection][P302] | [Project Page][PP302] |
+| 2022 | ICML | [Diffusion Models for Adversarial Purification][P312] | [Code][C312] |
+| 2022 | T-ITS | [CSG: Classifier-aware defense strategy based on compressive sensing and generative networks for visual recognition in autonomous vehicle systems][P311] | - |
+| 2022 | T-ITS | [A Sensor Fusion-Based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles][P320] | - |
+| 2022 | SPW | [Using 3D shadows to detect object hiding attacks on autonomous vehicle perception][P321] | - |
+| 2022 | T-CAD | [Counteracting adversarial attacks in autonomous driving][P303] | - |
+| 2021 | ICCV | [PointGuard: Provably Robust 3D Point Cloud Classification][P301] | - |
+| 2021 | T-IP | [Defending Person Detection Against Adversarial Patch Attack by using Universal Defensive Frame][P310] | - |
+| 2021 | T-DSC | [Seeing is Not Always Believing: Detecting Perception Error Attacks Against Autonomous Vehicles][P317] | - |
+| 2021 | T-IFS | [Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles][P318] | - |
+| 2021 | IoTJ | [Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems][P319] | - |
 
 
 
