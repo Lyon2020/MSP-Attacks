@@ -42,7 +42,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 
   - [Adversarial Attacks on Multi-Modal Fusion](#adversarial-attacks-on-multi-modal-fusion)
  
-  - [General Defense Paradigm](#defense-methods-for-multi-modal-fusion)
+  - [General Defense Paradigm](#General Defense Paradigm)
 
 ## Methods: A Survey
 
