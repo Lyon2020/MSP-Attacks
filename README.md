@@ -11,7 +11,7 @@ This project focuses on vulnerabilities across single-sensor modalities and mult
 ## **🎯 Research Scope**
 
 <div align="center">
-  <img src="./assets/sensor_silhouette.png" alt="Vehicle Sensor Silhouette Diagram" width="80%">
+  <img src="./assets/outlook.png" alt="Vehicle Sensor Silhouette Diagram" width="80%">
   <br>
   <em>Figure 1 visualizes the overarching framework of this survey, mapping the scope of multi-modal adversarial research onto the spatial configuration of Camera, LiDAR, Radar, and GPS sensors.</em>
 </div>
